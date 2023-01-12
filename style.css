@@ -1,0 +1,48 @@
+.container {
+    max-width: 80%;
+}
+
+.gym-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightseagreen;
+}
+
+.button-text {
+    font-size: larger;
+}
+
+.btn {
+    background-color: lightseagreen;
+    color: white;
+    box-shadow: none !important;
+    outline: none;
+}
+
+.btn:focus {
+    outline: none !important;
+}
+
+.btn:hover {
+    box-shadow: none !important;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.message {
+    font-style: italic;
+}
+
+.time {
+    font-size: 0.8rem;
+    color: rgb(157, 157, 157);
+}
+
+.message-update {
+    margin: 20px auto;
+    text-align: center;
+    background-color: darkgray;
+    color: white;
+    border-radius: 5%;
+}
